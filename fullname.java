@@ -9,6 +9,6 @@ String lastName;
 String middleName;
   middleName = "Martin";
  String fullName = (firstName + " " + middleName + " " + lastName);
-  System.out.println(fullName);
+  System.out.println(fullName + " is my name.");
 }      
 }
